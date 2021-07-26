@@ -1,0 +1,27 @@
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<SOAP-ENC:Array SOAP-ENC:arrayType="a1:Product[3]" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/ObjectStore/ObjectStore%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<item href="#ref-3"/>
+<item href="#ref-4"/>
+<item href="#ref-5"/>
+</SOAP-ENC:Array>
+<a1:Product id="ref-3" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/ObjectStore/ObjectStore%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<Id>1</Id>
+<Name id="ref-6">Аленка</Name>
+<Price>55</Price>
+<notes id="ref-7">не очень</notes>
+</a1:Product>
+<a1:Product id="ref-4" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/ObjectStore/ObjectStore%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<Id>2</Id>
+<Name id="ref-8">Россия щедрая душа</Name>
+<Price>40</Price>
+<notes id="ref-9">Nestle, на самом деле</notes>
+</a1:Product>
+<a1:Product id="ref-5" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/ObjectStore/ObjectStore%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<Id>4</Id>
+<Name id="ref-10">Lindt</Name>
+<Price>112</Price>
+<notes id="ref-11">очень хороший</notes>
+</a1:Product>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>

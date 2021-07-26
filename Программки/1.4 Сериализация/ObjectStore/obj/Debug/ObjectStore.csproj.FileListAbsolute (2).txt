@@ -1,0 +1,24 @@
+C:\Users\Karli\AppData\Local\Temporary Projects\ObjectStore\bin\Debug\ObjectStore.exe
+C:\Users\Karli\AppData\Local\Temporary Projects\ObjectStore\bin\Debug\ObjectStore.pdb
+C:\Users\Karli\AppData\Local\Temporary Projects\ObjectStore\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Karli\AppData\Local\Temporary Projects\ObjectStore\obj\Debug\ObjectStore.exe
+C:\Users\Karli\AppData\Local\Temporary Projects\ObjectStore\obj\Debug\ObjectStore.pdb
+C:\BegVCSharp\Chapter24\ObjectStore\ObjectStore\obj\Debug\ObjectStore.exe
+C:\BegVCSharp\Chapter24\ObjectStore\ObjectStore\obj\Debug\ObjectStore.pdb
+C:\BegVCSharp\Chapter24\ObjectStore\ObjectStore\bin\Debug\ObjectStore.exe
+C:\BegVCSharp\Chapter24\ObjectStore\ObjectStore\bin\Debug\ObjectStore.pdb
+C:\BegVCSharp\Chapter24\ObjectStore\ObjectStore\obj\Debug\ResolveAssemblyReference.cache
+D:\Chapter24\ObjectStore\ObjectStore\obj\Debug\ObjectStore.exe
+D:\Chapter24\ObjectStore\ObjectStore\obj\Debug\ObjectStore.pdb
+D:\Chapter24\ObjectStore\ObjectStore\bin\Debug\ObjectStore.exe
+D:\Chapter24\ObjectStore\ObjectStore\bin\Debug\ObjectStore.pdb
+D:\Chapter24\ObjectStore\ObjectStore\obj\Debug\ResolveAssemblyReference.cache
+D:\YandexDisk\Программы\15.5 ObjectStore\ObjectStore\obj\Debug\ObjectStore.exe
+D:\YandexDisk\Программы\15.5 ObjectStore\ObjectStore\obj\Debug\ObjectStore.pdb
+D:\Яндекс диск\Программы\15.5 Serialization\ObjectStore\obj\Debug\ObjectStore.exe
+D:\Яндекс диск\Программы\15.5 Serialization\ObjectStore\obj\Debug\ObjectStore.pdb
+d:\YandexDisk\Программы\4 семестр\1 Файловая система\1.4 Serialization\ObjectStore\obj\Debug\ObjectStore.exe
+d:\YandexDisk\Программы\4 семестр\1 Файловая система\1.4 Serialization\ObjectStore\obj\Debug\ObjectStore.pdb
+d:\YandexDisk\Программы\4 семестр\1 Файловая система\1.4 Serialization\ObjectStore\bin\Debug\ObjectStore.exe
+d:\YandexDisk\Программы\4 семестр\1 Файловая система\1.4 Serialization\ObjectStore\bin\Debug\ObjectStore.pdb
+d:\YandexDisk\Программы\4 семестр\1 Файловая система\1.4 Serialization\ObjectStore\obj\Debug\ResolveAssemblyReference.cache

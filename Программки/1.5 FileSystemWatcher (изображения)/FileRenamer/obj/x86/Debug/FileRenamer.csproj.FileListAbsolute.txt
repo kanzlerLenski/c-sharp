@@ -1,0 +1,26 @@
+D:\FileRenamer\FileRenamer\bin\Debug\FileRenamer.exe
+D:\FileRenamer\FileRenamer\bin\Debug\FileRenamer.pdb
+D:\FileRenamer\FileRenamer\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\FileRenamer\FileRenamer\obj\x86\Debug\FileRenamer.Properties.Resources.resources
+D:\FileRenamer\FileRenamer\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\FileRenamer\FileRenamer\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\FileRenamer\FileRenamer\obj\x86\Debug\FileRenamer.exe
+D:\FileRenamer\FileRenamer\obj\x86\Debug\FileRenamer.pdb
+d:\YandexDisk\Программы\4 семестр\1 Файловая система\FileRenamer\FileRenamer\obj\x86\Debug\FileRenamer.exe
+d:\YandexDisk\Программы\4 семестр\1 Файловая система\FileRenamer\FileRenamer\obj\x86\Debug\FileRenamer.pdb
+d:\YandexDisk\Программы\4 семестр\1 Файловая система\FileRenamer\FileRenamer\bin\Debug\FileRenamer.exe
+d:\YandexDisk\Программы\4 семестр\1 Файловая система\FileRenamer\FileRenamer\bin\Debug\FileRenamer.pdb
+d:\YandexDisk\Программы\4 семестр\1 Файловая система\FileRenamer\FileRenamer\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\YandexDisk\Программы\4 семестр\1 Файловая система\FileRenamer\FileRenamer\obj\x86\Debug\FileRenamer.Properties.Resources.resources
+d:\YandexDisk\Программы\4 семестр\1 Файловая система\FileRenamer\FileRenamer\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\YandexDisk\Программы\4 семестр\1 Файловая система\FileRenamer\FileRenamer\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Яндекс диск\Программы\4 семестр\1 Файловая система\1.5 FileSystemWatcher (изображения)\FileRenamer\obj\x86\Debug\FileRenamer.exe
+D:\Яндекс диск\Программы\4 семестр\1 Файловая система\1.5 FileSystemWatcher (изображения)\FileRenamer\obj\x86\Debug\FileRenamer.pdb
+D:\Яндекс диск\Программы\4 семестр\1 Файловая система\1.5 FileSystemWatcher (изображения)\FileRenamer\bin\Debug\FileRenamer.exe
+D:\Яндекс диск\Программы\4 семестр\1 Файловая система\1.5 FileSystemWatcher (изображения)\FileRenamer\bin\Debug\FileRenamer.pdb
+D:\Яндекс диск\Программы\4 семестр\1 Файловая система\1.5 FileSystemWatcher (изображения)\FileRenamer\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Яндекс диск\Программы\4 семестр\1 Файловая система\1.5 FileSystemWatcher (изображения)\FileRenamer\obj\x86\Debug\FileRenamer.Properties.Resources.resources
+D:\Яндекс диск\Программы\4 семестр\1 Файловая система\1.5 FileSystemWatcher (изображения)\FileRenamer\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Яндекс диск\Программы\4 семестр\1 Файловая система\1.5 FileSystemWatcher (изображения)\FileRenamer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\User\Downloads\Новая папка\1.5 FileSystemWatcher (изображения)\FileRenamer\obj\x86\Debug\FileRenamer.exe
+C:\Users\User\Downloads\Новая папка\1.5 FileSystemWatcher (изображения)\FileRenamer\obj\x86\Debug\FileRenamer.pdb

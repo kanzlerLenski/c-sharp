@@ -1,0 +1,14 @@
+D:\YandexDisk\Программы\12 AnonimousTypes\AnonimousTypes\bin\Debug\AnonimousTypes.exe
+D:\YandexDisk\Программы\12 AnonimousTypes\AnonimousTypes\bin\Debug\AnonimousTypes.pdb
+D:\YandexDisk\Программы\12 AnonimousTypes\AnonimousTypes\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\YandexDisk\Программы\12 AnonimousTypes\AnonimousTypes\obj\x86\Debug\AnonimousTypes.exe
+D:\YandexDisk\Программы\12 AnonimousTypes\AnonimousTypes\obj\x86\Debug\AnonimousTypes.pdb
+c:\Users\Sergey\Google Drive\Программы\12 AnonimousTypes\AnonimousTypes\obj\x86\Debug\AnonimousTypes.exe
+c:\Users\Sergey\Google Drive\Программы\12 AnonimousTypes\AnonimousTypes\obj\x86\Debug\AnonimousTypes.pdb
+d:\YandexDisk\Программы\14.1 AnonimousTypes\AnonimousTypes\obj\x86\Debug\AnonimousTypes.exe
+d:\YandexDisk\Программы\14.1 AnonimousTypes\AnonimousTypes\obj\x86\Debug\AnonimousTypes.pdb
+d:\YandexDisk\Программы\14.1 AnonimousTypes\AnonimousTypes\bin\Debug\AnonimousTypes.exe
+d:\YandexDisk\Программы\14.1 AnonimousTypes\AnonimousTypes\bin\Debug\AnonimousTypes.pdb
+d:\YandexDisk\Программы\14.1 AnonimousTypes\AnonimousTypes\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Downloads\Новая папка\14.1 Анонимные типы и инициализаторы\AnonimousTypes\obj\x86\Debug\AnonimousTypes.exe
+C:\Users\User\Downloads\Новая папка\14.1 Анонимные типы и инициализаторы\AnonimousTypes\obj\x86\Debug\AnonimousTypes.pdb

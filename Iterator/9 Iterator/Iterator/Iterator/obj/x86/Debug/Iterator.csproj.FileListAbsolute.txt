@@ -1,0 +1,9 @@
+D:\YandexDisk\Программы\9 Iterator\Iterator\Iterator\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\YandexDisk\Программы\9 Iterator\Iterator\Iterator\bin\Debug\Iterator.exe
+D:\YandexDisk\Программы\9 Iterator\Iterator\Iterator\bin\Debug\Iterator.pdb
+D:\YandexDisk\Программы\9 Iterator\Iterator\Iterator\obj\x86\Debug\Iterator.exe
+D:\YandexDisk\Программы\9 Iterator\Iterator\Iterator\obj\x86\Debug\Iterator.pdb
+C:\Users\User\Desktop\Новая папка (3)\9 Iterator\Iterator\Iterator\obj\x86\Debug\Iterator.exe
+C:\Users\User\Desktop\Новая папка (3)\9 Iterator\Iterator\Iterator\obj\x86\Debug\Iterator.pdb
+F:\Программирование\Новая папка (3)\9 Iterator\Iterator\Iterator\obj\x86\Debug\Iterator.exe
+F:\Программирование\Новая папка (3)\9 Iterator\Iterator\Iterator\obj\x86\Debug\Iterator.pdb

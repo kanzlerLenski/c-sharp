@@ -1,0 +1,8 @@
+F:\Программирование\Комплексные числа\ConsoleApplication12\bin\Debug\ConsoleApplication12.exe
+F:\Программирование\Комплексные числа\ConsoleApplication12\bin\Debug\ConsoleApplication12.pdb
+F:\Программирование\Комплексные числа\ConsoleApplication12\obj\x86\Debug\ConsoleApplication12.exe
+F:\Программирование\Комплексные числа\ConsoleApplication12\obj\x86\Debug\ConsoleApplication12.pdb
+E:\Программирование\Комплексные числа\ConsoleApplication12\obj\x86\Debug\ConsoleApplication12.exe
+E:\Программирование\Комплексные числа\ConsoleApplication12\obj\x86\Debug\ConsoleApplication12.pdb
+E:\Программирование\Комплексные числа\ConsoleApplication12\bin\Debug\ConsoleApplication12.exe
+E:\Программирование\Комплексные числа\ConsoleApplication12\bin\Debug\ConsoleApplication12.pdb

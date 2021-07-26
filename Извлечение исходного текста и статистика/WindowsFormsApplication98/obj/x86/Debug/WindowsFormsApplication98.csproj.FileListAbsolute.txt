@@ -1,0 +1,33 @@
+c:\users\user\documents\visual studio 2010\Projects\WindowsFormsApplication98\WindowsFormsApplication98\bin\Debug\WindowsFormsApplication98.exe
+c:\users\user\documents\visual studio 2010\Projects\WindowsFormsApplication98\WindowsFormsApplication98\bin\Debug\WindowsFormsApplication98.pdb
+c:\users\user\documents\visual studio 2010\Projects\WindowsFormsApplication98\WindowsFormsApplication98\obj\x86\Debug\WindowsFormsApplication98.Form1.resources
+c:\users\user\documents\visual studio 2010\Projects\WindowsFormsApplication98\WindowsFormsApplication98\obj\x86\Debug\WindowsFormsApplication98.Properties.Resources.resources
+c:\users\user\documents\visual studio 2010\Projects\WindowsFormsApplication98\WindowsFormsApplication98\obj\x86\Debug\WindowsFormsApplication98.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2010\Projects\WindowsFormsApplication98\WindowsFormsApplication98\obj\x86\Debug\WindowsFormsApplication98.exe
+c:\users\user\documents\visual studio 2010\Projects\WindowsFormsApplication98\WindowsFormsApplication98\obj\x86\Debug\WindowsFormsApplication98.pdb
+E:\Программирование\WindowsFormsApplication98\WindowsFormsApplication98\obj\x86\Debug\WindowsFormsApplication98.exe
+E:\Программирование\WindowsFormsApplication98\WindowsFormsApplication98\obj\x86\Debug\WindowsFormsApplication98.pdb
+F:\Программирование\WindowsFormsApplication98\WindowsFormsApplication98\obj\x86\Debug\WindowsFormsApplication98.exe
+F:\Программирование\WindowsFormsApplication98\WindowsFormsApplication98\obj\x86\Debug\WindowsFormsApplication98.pdb
+F:\Программирование\WindowsFormsApplication98\WindowsFormsApplication98\bin\Debug\WindowsFormsApplication98.exe
+F:\Программирование\WindowsFormsApplication98\WindowsFormsApplication98\bin\Debug\WindowsFormsApplication98.pdb
+F:\Программирование\WindowsFormsApplication98\WindowsFormsApplication98\obj\x86\Debug\WindowsFormsApplication98.Form1.resources
+F:\Программирование\WindowsFormsApplication98\WindowsFormsApplication98\obj\x86\Debug\WindowsFormsApplication98.Properties.Resources.resources
+F:\Программирование\WindowsFormsApplication98\WindowsFormsApplication98\obj\x86\Debug\WindowsFormsApplication98.csproj.GenerateResource.Cache
+E:\Программирование\WindowsFormsApplication98\WindowsFormsApplication98\bin\Debug\WindowsFormsApplication98.exe
+E:\Программирование\WindowsFormsApplication98\WindowsFormsApplication98\bin\Debug\WindowsFormsApplication98.pdb
+E:\Программирование\WindowsFormsApplication98\WindowsFormsApplication98\obj\x86\Debug\WindowsFormsApplication98.csprojResolveAssemblyReference.cache
+E:\Программирование\WindowsFormsApplication98\WindowsFormsApplication98\obj\x86\Debug\WindowsFormsApplication98.Form1.resources
+E:\Программирование\WindowsFormsApplication98\WindowsFormsApplication98\obj\x86\Debug\WindowsFormsApplication98.Properties.Resources.resources
+E:\Программирование\WindowsFormsApplication98\WindowsFormsApplication98\obj\x86\Debug\WindowsFormsApplication98.csproj.GenerateResource.Cache
+F:\Программирование\WindowsFormsApplication98\WindowsFormsApplication98\obj\x86\Debug\WindowsFormsApplication98.csprojResolveAssemblyReference.cache
+F:\Программирование\Извлечение исходного текста и статистика\WindowsFormsApplication98\obj\x86\Debug\WindowsFormsApplication98.exe
+F:\Программирование\Извлечение исходного текста и статистика\WindowsFormsApplication98\obj\x86\Debug\WindowsFormsApplication98.pdb
+E:\Программирование\Извлечение исходного текста и статистика\WindowsFormsApplication98\obj\x86\Debug\WindowsFormsApplication98.exe
+E:\Программирование\Извлечение исходного текста и статистика\WindowsFormsApplication98\obj\x86\Debug\WindowsFormsApplication98.pdb
+E:\Программирование\Извлечение исходного текста и статистика\WindowsFormsApplication98\bin\Debug\WindowsFormsApplication98.exe
+E:\Программирование\Извлечение исходного текста и статистика\WindowsFormsApplication98\bin\Debug\WindowsFormsApplication98.pdb
+E:\Программирование\Извлечение исходного текста и статистика\WindowsFormsApplication98\obj\x86\Debug\WindowsFormsApplication98.csprojResolveAssemblyReference.cache
+E:\Программирование\Извлечение исходного текста и статистика\WindowsFormsApplication98\obj\x86\Debug\WindowsFormsApplication98.Form1.resources
+E:\Программирование\Извлечение исходного текста и статистика\WindowsFormsApplication98\obj\x86\Debug\WindowsFormsApplication98.Properties.Resources.resources
+E:\Программирование\Извлечение исходного текста и статистика\WindowsFormsApplication98\obj\x86\Debug\WindowsFormsApplication98.csproj.GenerateResource.Cache

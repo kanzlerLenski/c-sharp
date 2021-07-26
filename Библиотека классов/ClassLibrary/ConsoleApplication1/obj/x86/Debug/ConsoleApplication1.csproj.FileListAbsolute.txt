@@ -1,0 +1,7 @@
+c:\users\user\documents\visual studio 2010\Projects\ClassLibrary\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\user\documents\visual studio 2010\Projects\ClassLibrary\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\user\documents\visual studio 2010\Projects\ClassLibrary\ConsoleApplication1\bin\Debug\ClassLibrary.dll
+c:\users\user\documents\visual studio 2010\Projects\ClassLibrary\ConsoleApplication1\bin\Debug\ClassLibrary.pdb
+c:\users\user\documents\visual studio 2010\Projects\ClassLibrary\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2010\Projects\ClassLibrary\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+c:\users\user\documents\visual studio 2010\Projects\ClassLibrary\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb

@@ -1,0 +1,33 @@
+C:\Users\User\Documents\Visual Studio 2010\Projects\WindowsFormsApplication47\WindowsFormsApplication47\bin\Debug\WindowsFormsApplication47.exe
+C:\Users\User\Documents\Visual Studio 2010\Projects\WindowsFormsApplication47\WindowsFormsApplication47\bin\Debug\WindowsFormsApplication47.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\WindowsFormsApplication47\WindowsFormsApplication47\obj\x86\Debug\WindowsFormsApplication47.Form1.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\WindowsFormsApplication47\WindowsFormsApplication47\obj\x86\Debug\WindowsFormsApplication47.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\WindowsFormsApplication47\WindowsFormsApplication47\obj\x86\Debug\WindowsFormsApplication47.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2010\Projects\WindowsFormsApplication47\WindowsFormsApplication47\obj\x86\Debug\WindowsFormsApplication47.exe
+C:\Users\User\Documents\Visual Studio 2010\Projects\WindowsFormsApplication47\WindowsFormsApplication47\obj\x86\Debug\WindowsFormsApplication47.pdb
+E:\Программирование\WindowsFormsApplication47\WindowsFormsApplication47\obj\x86\Debug\WindowsFormsApplication47.exe
+E:\Программирование\WindowsFormsApplication47\WindowsFormsApplication47\obj\x86\Debug\WindowsFormsApplication47.pdb
+F:\Программирование\WindowsFormsApplication47\WindowsFormsApplication47\obj\x86\Debug\WindowsFormsApplication47.exe
+F:\Программирование\WindowsFormsApplication47\WindowsFormsApplication47\obj\x86\Debug\WindowsFormsApplication47.pdb
+F:\Программирование\WindowsFormsApplication47\WindowsFormsApplication47\bin\Debug\WindowsFormsApplication47.exe
+F:\Программирование\WindowsFormsApplication47\WindowsFormsApplication47\bin\Debug\WindowsFormsApplication47.pdb
+F:\Программирование\WindowsFormsApplication47\WindowsFormsApplication47\obj\x86\Debug\WindowsFormsApplication47.Form1.resources
+F:\Программирование\WindowsFormsApplication47\WindowsFormsApplication47\obj\x86\Debug\WindowsFormsApplication47.Properties.Resources.resources
+F:\Программирование\WindowsFormsApplication47\WindowsFormsApplication47\obj\x86\Debug\WindowsFormsApplication47.csproj.GenerateResource.Cache
+F:\Программирование\WindowsFormsApplication47\WindowsFormsApplication47\obj\x86\Debug\WindowsFormsApplication47.csprojResolveAssemblyReference.cache
+F:\Программирование\Глаголы\WindowsFormsApplication47\obj\x86\Debug\WindowsFormsApplication47.exe
+F:\Программирование\Глаголы\WindowsFormsApplication47\obj\x86\Debug\WindowsFormsApplication47.pdb
+F:\Программирование\Глаголы\WindowsFormsApplication47\bin\Debug\WindowsFormsApplication47.exe
+F:\Программирование\Глаголы\WindowsFormsApplication47\bin\Debug\WindowsFormsApplication47.pdb
+F:\Программирование\Глаголы\WindowsFormsApplication47\obj\x86\Debug\WindowsFormsApplication47.csprojResolveAssemblyReference.cache
+F:\Программирование\Глаголы\WindowsFormsApplication47\obj\x86\Debug\WindowsFormsApplication47.Form1.resources
+F:\Программирование\Глаголы\WindowsFormsApplication47\obj\x86\Debug\WindowsFormsApplication47.Properties.Resources.resources
+F:\Программирование\Глаголы\WindowsFormsApplication47\obj\x86\Debug\WindowsFormsApplication47.csproj.GenerateResource.Cache
+E:\Программирование\Глаголы\WindowsFormsApplication47\obj\x86\Debug\WindowsFormsApplication47.exe
+E:\Программирование\Глаголы\WindowsFormsApplication47\obj\x86\Debug\WindowsFormsApplication47.pdb
+E:\Программирование\Глаголы\WindowsFormsApplication47\bin\Debug\WindowsFormsApplication47.exe
+E:\Программирование\Глаголы\WindowsFormsApplication47\bin\Debug\WindowsFormsApplication47.pdb
+E:\Программирование\Глаголы\WindowsFormsApplication47\obj\x86\Debug\WindowsFormsApplication47.csprojResolveAssemblyReference.cache
+E:\Программирование\Глаголы\WindowsFormsApplication47\obj\x86\Debug\WindowsFormsApplication47.Form1.resources
+E:\Программирование\Глаголы\WindowsFormsApplication47\obj\x86\Debug\WindowsFormsApplication47.Properties.Resources.resources
+E:\Программирование\Глаголы\WindowsFormsApplication47\obj\x86\Debug\WindowsFormsApplication47.csproj.GenerateResource.Cache

@@ -1,0 +1,18 @@
+c:\users\user\documents\visual studio 2010\Projects\ConsoleApplication16\ConsoleApplication16\bin\Debug\ConsoleApplication16.exe
+c:\users\user\documents\visual studio 2010\Projects\ConsoleApplication16\ConsoleApplication16\bin\Debug\ConsoleApplication16.pdb
+c:\users\user\documents\visual studio 2010\Projects\ConsoleApplication16\ConsoleApplication16\obj\x86\Debug\ConsoleApplication16.exe
+c:\users\user\documents\visual studio 2010\Projects\ConsoleApplication16\ConsoleApplication16\obj\x86\Debug\ConsoleApplication16.pdb
+D:\ConsoleApplication16\ConsoleApplication16\obj\x86\Debug\ConsoleApplication16.exe
+D:\ConsoleApplication16\ConsoleApplication16\obj\x86\Debug\ConsoleApplication16.pdb
+D:\ConsoleApplication16\ConsoleApplication16\bin\Debug\ConsoleApplication16.exe
+D:\ConsoleApplication16\ConsoleApplication16\bin\Debug\ConsoleApplication16.pdb
+E:\ConsoleApplication16\ConsoleApplication16\obj\x86\Debug\ConsoleApplication16.exe
+E:\ConsoleApplication16\ConsoleApplication16\obj\x86\Debug\ConsoleApplication16.pdb
+E:\ConsoleApplication16\ConsoleApplication16\bin\Debug\ConsoleApplication16.exe
+E:\ConsoleApplication16\ConsoleApplication16\bin\Debug\ConsoleApplication16.pdb
+F:\ConsoleApplication16\ConsoleApplication16\obj\x86\Debug\ConsoleApplication16.exe
+F:\ConsoleApplication16\ConsoleApplication16\obj\x86\Debug\ConsoleApplication16.pdb
+F:\Программирование\ConsoleApplication17\ConsoleApplication16\obj\x86\Debug\ConsoleApplication16.exe
+F:\Программирование\ConsoleApplication17\ConsoleApplication16\obj\x86\Debug\ConsoleApplication16.pdb
+F:\Программирование\Сортировка листа\ConsoleApplication16\obj\x86\Debug\ConsoleApplication16.exe
+F:\Программирование\Сортировка листа\ConsoleApplication16\obj\x86\Debug\ConsoleApplication16.pdb

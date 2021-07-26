@@ -1,0 +1,21 @@
+c:\users\user\documents\visual studio 2010\Projects\ConsoleApplication6\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe
+c:\users\user\documents\visual studio 2010\Projects\ConsoleApplication6\ConsoleApplication6\bin\Debug\ConsoleApplication6.pdb
+c:\users\user\documents\visual studio 2010\Projects\ConsoleApplication6\ConsoleApplication6\obj\x86\Debug\ConsoleApplication6.exe
+c:\users\user\documents\visual studio 2010\Projects\ConsoleApplication6\ConsoleApplication6\obj\x86\Debug\ConsoleApplication6.pdb
+F:\Программирование\ConsoleApplication6\ConsoleApplication6\obj\x86\Debug\ConsoleApplication6.exe
+F:\Программирование\ConsoleApplication6\ConsoleApplication6\obj\x86\Debug\ConsoleApplication6.pdb
+F:\Программирование\ConsoleApplication6\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe
+F:\Программирование\ConsoleApplication6\ConsoleApplication6\bin\Debug\ConsoleApplication6.pdb
+E:\Программирование\ConsoleApplication6\ConsoleApplication6\obj\x86\Debug\ConsoleApplication6.exe
+E:\Программирование\ConsoleApplication6\ConsoleApplication6\obj\x86\Debug\ConsoleApplication6.pdb
+E:\Программирование\Системы счисления\ConsoleApplication6\obj\x86\Debug\ConsoleApplication6.exe
+E:\Программирование\Системы счисления\ConsoleApplication6\obj\x86\Debug\ConsoleApplication6.pdb
+F:\Программирование\Системы счисления\ConsoleApplication6\obj\x86\Debug\ConsoleApplication6.exe
+F:\Программирование\Системы счисления\ConsoleApplication6\obj\x86\Debug\ConsoleApplication6.pdb
+F:\Программирование\Системы счисления\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe
+F:\Программирование\Системы счисления\ConsoleApplication6\bin\Debug\ConsoleApplication6.pdb
+E:\Программирование\Системы счисления\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe
+E:\Программирование\Системы счисления\ConsoleApplication6\bin\Debug\ConsoleApplication6.pdb
+E:\Программирование\Системы счисления\ConsoleApplication6\obj\x86\Debug\ConsoleApplication6.csprojResolveAssemblyReference.cache
+E:\Программирование\Системы исчисления\ConsoleApplication6\obj\x86\Debug\ConsoleApplication6.exe
+E:\Программирование\Системы исчисления\ConsoleApplication6\obj\x86\Debug\ConsoleApplication6.pdb

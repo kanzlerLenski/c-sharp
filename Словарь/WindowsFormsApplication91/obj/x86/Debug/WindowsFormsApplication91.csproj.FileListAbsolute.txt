@@ -1,0 +1,30 @@
+c:\users\user\documents\visual studio 2010\Projects\WindowsFormsApplication91\WindowsFormsApplication91\obj\x86\Debug\WindowsFormsApplication91.Form1.resources
+c:\users\user\documents\visual studio 2010\Projects\WindowsFormsApplication91\WindowsFormsApplication91\obj\x86\Debug\WindowsFormsApplication91.Properties.Resources.resources
+c:\users\user\documents\visual studio 2010\Projects\WindowsFormsApplication91\WindowsFormsApplication91\obj\x86\Debug\WindowsFormsApplication91.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2010\Projects\WindowsFormsApplication91\WindowsFormsApplication91\bin\Debug\WindowsFormsApplication91.exe
+c:\users\user\documents\visual studio 2010\Projects\WindowsFormsApplication91\WindowsFormsApplication91\bin\Debug\WindowsFormsApplication91.pdb
+c:\users\user\documents\visual studio 2010\Projects\WindowsFormsApplication91\WindowsFormsApplication91\obj\x86\Debug\WindowsFormsApplication91.exe
+c:\users\user\documents\visual studio 2010\Projects\WindowsFormsApplication91\WindowsFormsApplication91\obj\x86\Debug\WindowsFormsApplication91.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\WindowsFormsApplication91\WindowsFormsApplication91\obj\x86\Debug\WindowsFormsApplication91.csprojResolveAssemblyReference.cache
+F:\WindowsFormsApplication91\WindowsFormsApplication91\obj\x86\Debug\WindowsFormsApplication91.exe
+F:\WindowsFormsApplication91\WindowsFormsApplication91\obj\x86\Debug\WindowsFormsApplication91.csprojResolveAssemblyReference.cache
+F:\WindowsFormsApplication91\WindowsFormsApplication91\obj\x86\Debug\WindowsFormsApplication91.Form1.resources
+F:\WindowsFormsApplication91\WindowsFormsApplication91\obj\x86\Debug\WindowsFormsApplication91.Properties.Resources.resources
+F:\WindowsFormsApplication91\WindowsFormsApplication91\obj\x86\Debug\WindowsFormsApplication91.csproj.GenerateResource.Cache
+F:\WindowsFormsApplication91\WindowsFormsApplication91\bin\Debug\WindowsFormsApplication91.exe
+F:\WindowsFormsApplication91\WindowsFormsApplication91\bin\Debug\WindowsFormsApplication91.pdb
+F:\WindowsFormsApplication91\WindowsFormsApplication91\obj\x86\Debug\WindowsFormsApplication91.pdb
+E:\WindowsFormsApplication91\WindowsFormsApplication91\obj\x86\Debug\WindowsFormsApplication91.exe
+E:\WindowsFormsApplication91\WindowsFormsApplication91\obj\x86\Debug\WindowsFormsApplication91.pdb
+E:\WindowsFormsApplication91\WindowsFormsApplication91\bin\Debug\WindowsFormsApplication91.exe
+E:\WindowsFormsApplication91\WindowsFormsApplication91\bin\Debug\WindowsFormsApplication91.pdb
+E:\WindowsFormsApplication91\WindowsFormsApplication91\obj\x86\Debug\WindowsFormsApplication91.csprojResolveAssemblyReference.cache
+E:\WindowsFormsApplication91\WindowsFormsApplication91\obj\x86\Debug\WindowsFormsApplication91.Form1.resources
+E:\WindowsFormsApplication91\WindowsFormsApplication91\obj\x86\Debug\WindowsFormsApplication91.Properties.Resources.resources
+E:\WindowsFormsApplication91\WindowsFormsApplication91\obj\x86\Debug\WindowsFormsApplication91.csproj.GenerateResource.Cache
+F:\Программирование\WindowsFormsApplication91\WindowsFormsApplication91\obj\x86\Debug\WindowsFormsApplication91.exe
+F:\Программирование\WindowsFormsApplication91\WindowsFormsApplication91\obj\x86\Debug\WindowsFormsApplication91.pdb
+F:\Программирование\Словарь\WindowsFormsApplication91\obj\x86\Debug\WindowsFormsApplication91.exe
+F:\Программирование\Словарь\WindowsFormsApplication91\obj\x86\Debug\WindowsFormsApplication91.pdb
+E:\Программирование\Словарь\WindowsFormsApplication91\obj\x86\Debug\WindowsFormsApplication91.exe
+E:\Программирование\Словарь\WindowsFormsApplication91\obj\x86\Debug\WindowsFormsApplication91.pdb

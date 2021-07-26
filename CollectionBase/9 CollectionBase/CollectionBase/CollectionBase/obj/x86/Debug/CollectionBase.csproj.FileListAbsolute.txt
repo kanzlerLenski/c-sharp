@@ -1,0 +1,11 @@
+D:\Яндекс диск\Программы\9 CollectionBase\CollectionBase\CollectionBase\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Яндекс диск\Программы\9 CollectionBase\CollectionBase\CollectionBase\bin\Debug\CollectionBase.exe
+D:\Яндекс диск\Программы\9 CollectionBase\CollectionBase\CollectionBase\bin\Debug\CollectionBase.pdb
+D:\Яндекс диск\Программы\9 CollectionBase\CollectionBase\CollectionBase\obj\x86\Debug\CollectionBase.exe
+D:\Яндекс диск\Программы\9 CollectionBase\CollectionBase\CollectionBase\obj\x86\Debug\CollectionBase.pdb
+C:\Users\User\Desktop\Новая папка (2)\9 CollectionBase\CollectionBase\CollectionBase\obj\x86\Debug\CollectionBase.exe
+C:\Users\User\Desktop\Новая папка (2)\9 CollectionBase\CollectionBase\CollectionBase\obj\x86\Debug\CollectionBase.pdb
+C:\Users\User\Desktop\Новая папка (2)\9 CollectionBase\CollectionBase\CollectionBase\bin\Debug\CollectionBase.exe
+C:\Users\User\Desktop\Новая папка (2)\9 CollectionBase\CollectionBase\CollectionBase\bin\Debug\CollectionBase.pdb
+F:\Программирование\Новая папка (2)\9 CollectionBase\CollectionBase\CollectionBase\obj\x86\Debug\CollectionBase.exe
+F:\Программирование\Новая папка (2)\9 CollectionBase\CollectionBase\CollectionBase\obj\x86\Debug\CollectionBase.pdb

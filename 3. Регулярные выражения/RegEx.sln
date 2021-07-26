@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegEx", "RegEx.csproj", "{06A22069-D3AD-4667-B73B-1EE39223D15A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06A22069-D3AD-4667-B73B-1EE39223D15A}.Debug|x86.ActiveCfg = Debug|x86
+		{06A22069-D3AD-4667-B73B-1EE39223D15A}.Debug|x86.Build.0 = Debug|x86
+		{06A22069-D3AD-4667-B73B-1EE39223D15A}.Release|x86.ActiveCfg = Release|x86
+		{06A22069-D3AD-4667-B73B-1EE39223D15A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

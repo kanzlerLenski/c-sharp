@@ -1,0 +1,9 @@
+D:\Яндекс диск\Программы\9 ArrayVsArrayList\ArrayVsArrayList\bin\Debug\ArrayVsArrayList.exe
+D:\Яндекс диск\Программы\9 ArrayVsArrayList\ArrayVsArrayList\bin\Debug\ArrayVsArrayList.pdb
+D:\Яндекс диск\Программы\9 ArrayVsArrayList\ArrayVsArrayList\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Яндекс диск\Программы\9 ArrayVsArrayList\ArrayVsArrayList\obj\x86\Debug\ArrayVsArrayList.exe
+D:\Яндекс диск\Программы\9 ArrayVsArrayList\ArrayVsArrayList\obj\x86\Debug\ArrayVsArrayList.pdb
+C:\Users\User\Desktop\Новая папка\9 ArrayVsArrayList\ArrayVsArrayList\obj\x86\Debug\ArrayVsArrayList.exe
+C:\Users\User\Desktop\Новая папка\9 ArrayVsArrayList\ArrayVsArrayList\obj\x86\Debug\ArrayVsArrayList.pdb
+C:\Users\User\Desktop\Новая папка\9 ArrayVsArrayList\ArrayVsArrayList\bin\Debug\ArrayVsArrayList.exe
+C:\Users\User\Desktop\Новая папка\9 ArrayVsArrayList\ArrayVsArrayList\bin\Debug\ArrayVsArrayList.pdb

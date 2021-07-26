@@ -1,0 +1,7 @@
+C:\Users\kanzl_000\Google Диск\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\kanzl_000\Google Диск\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\kanzl_000\Google Диск\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\kanzl_000\Google Диск\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\kanzl_000\Google Диск\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\kanzl\Google Диск\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\kanzl\Google Диск\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb

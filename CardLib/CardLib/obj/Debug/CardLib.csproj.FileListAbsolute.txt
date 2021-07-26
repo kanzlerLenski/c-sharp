@@ -1,0 +1,12 @@
+C:\Users\User\Downloads\CardLib\CardLib\bin\Debug\CardLib.dll
+C:\Users\User\Downloads\CardLib\CardLib\bin\Debug\CardLib.pdb
+C:\Users\User\Downloads\CardLib\CardLib\obj\Debug\CardLib.dll
+C:\Users\User\Downloads\CardLib\CardLib\obj\Debug\CardLib.pdb
+F:\CardLib\CardLib\bin\Debug\CardLib.dll
+F:\CardLib\CardLib\bin\Debug\CardLib.pdb
+F:\CardLib\CardLib\obj\Debug\CardLib.dll
+F:\CardLib\CardLib\obj\Debug\CardLib.pdb
+E:\Программирование\CardLib\CardLib\obj\Debug\CardLib.dll
+E:\Программирование\CardLib\CardLib\obj\Debug\CardLib.pdb
+E:\Программирование\CardLib\CardLib\bin\Debug\CardLib.dll
+E:\Программирование\CardLib\CardLib\bin\Debug\CardLib.pdb

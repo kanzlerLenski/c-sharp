@@ -1,0 +1,23 @@
+c:\users\kanzl_000\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+c:\users\kanzl_000\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+c:\users\kanzl_000\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form1.resources
+c:\users\kanzl_000\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Properties.Resources.resources
+c:\users\kanzl_000\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+c:\users\kanzl_000\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.exe
+c:\users\kanzl_000\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.pdb
+F:\Программирование\Шифр Цезаря\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.exe
+F:\Программирование\Шифр Цезаря\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.pdb
+F:\Программирование\Шифр Цезаря\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+F:\Программирование\Шифр Цезаря\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+F:\Программирование\Шифр Цезаря\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form1.resources
+F:\Программирование\Шифр Цезаря\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Properties.Resources.resources
+F:\Программирование\Шифр Цезаря\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+F:\Программирование\Шифр Цезаря\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+E:\Программирование\Шифр Цезаря\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.exe
+E:\Программирование\Шифр Цезаря\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.pdb
+E:\Программирование\Шифр Цезаря\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+E:\Программирование\Шифр Цезаря\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+E:\Программирование\Шифр Цезаря\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+E:\Программирование\Шифр Цезаря\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form1.resources
+E:\Программирование\Шифр Цезаря\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Properties.Resources.resources
+E:\Программирование\Шифр Цезаря\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache

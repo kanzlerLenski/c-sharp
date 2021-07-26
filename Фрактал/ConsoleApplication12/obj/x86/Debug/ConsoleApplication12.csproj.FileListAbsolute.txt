@@ -1,0 +1,8 @@
+F:\Программирование\Фрактал\ConsoleApplication12\bin\Debug\ConsoleApplication12.exe
+F:\Программирование\Фрактал\ConsoleApplication12\bin\Debug\ConsoleApplication12.pdb
+F:\Программирование\Фрактал\ConsoleApplication12\obj\x86\Debug\ConsoleApplication12.exe
+F:\Программирование\Фрактал\ConsoleApplication12\obj\x86\Debug\ConsoleApplication12.pdb
+E:\Программирование\Фрактал\ConsoleApplication12\obj\x86\Debug\ConsoleApplication12.exe
+E:\Программирование\Фрактал\ConsoleApplication12\obj\x86\Debug\ConsoleApplication12.pdb
+E:\Программирование\Фрактал\ConsoleApplication12\bin\Debug\ConsoleApplication12.exe
+E:\Программирование\Фрактал\ConsoleApplication12\bin\Debug\ConsoleApplication12.pdb

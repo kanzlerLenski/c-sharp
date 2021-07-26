@@ -1,0 +1,13 @@
+c:\users\user\documents\visual studio 2010\Projects\ConsoleApplication17\ConsoleApplication17\bin\Debug\ConsoleApplication17.exe
+c:\users\user\documents\visual studio 2010\Projects\ConsoleApplication17\ConsoleApplication17\bin\Debug\ConsoleApplication17.pdb
+c:\users\user\documents\visual studio 2010\Projects\ConsoleApplication17\ConsoleApplication17\obj\x86\Debug\ConsoleApplication17.exe
+c:\users\user\documents\visual studio 2010\Projects\ConsoleApplication17\ConsoleApplication17\obj\x86\Debug\ConsoleApplication17.pdb
+F:\Программирование\ConsoleApplication17\ConsoleApplication17\obj\x86\Debug\ConsoleApplication17.exe
+F:\Программирование\ConsoleApplication17\ConsoleApplication17\obj\x86\Debug\ConsoleApplication17.pdb
+F:\Программирование\Для кафедры\ConsoleApplication17\obj\x86\Debug\ConsoleApplication17.exe
+F:\Программирование\Для кафедры\ConsoleApplication17\obj\x86\Debug\ConsoleApplication17.pdb
+E:\Программирование\Для кафедры\ConsoleApplication17\obj\x86\Debug\ConsoleApplication17.exe
+E:\Программирование\Для кафедры\ConsoleApplication17\obj\x86\Debug\ConsoleApplication17.pdb
+E:\Программирование\Для кафедры\ConsoleApplication17\bin\Debug\ConsoleApplication17.exe
+E:\Программирование\Для кафедры\ConsoleApplication17\bin\Debug\ConsoleApplication17.pdb
+E:\Программирование\Для кафедры\ConsoleApplication17\obj\x86\Debug\ConsoleApplication17.csprojResolveAssemblyReference.cache
